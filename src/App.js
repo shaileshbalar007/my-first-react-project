@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <h2>Welcome to Codeline infotech</h2>
+        <h3>Thanks for visit</h3>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -21,6 +22,7 @@ function App() {
       </header>
     </div>
   );
+
 }
 
 export default App;
